@@ -1,0 +1,67 @@
+p {
+    display: inline;
+    color:blue;
+
+  }
+.bouton:link{
+    color:white;
+}
+.bouton:visited{
+    color:red;
+}
+.bouton:hover{
+    color:yellow;
+}
+.straight {
+    display: inline;
+}
+.rounded{
+    display: inline;
+}
+.elliptical {
+    display: inline;
+}
+.d{
+    color:black;
+}
+h1{
+    color:black;
+    font-size: 40px;
+}
+iframe{
+    margin-top:5%;
+    margin-bottom: 5%;
+    margin-left: 2%;
+}
+.go{
+    background-color: palevioletred;
+}
+.dd{
+    background-color:palevioletred;
+}
+.def{
+    color:green
+
+}
+.haha{
+text-decoration: underline;
+
+}
+.la{
+text-decoration: underline;
+font-size: 40px;
+}
+fieldset{
+    color:grey;
+}
+.round{
+    display: block;
+}
+body {
+    background-image: url("cover.avif");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
